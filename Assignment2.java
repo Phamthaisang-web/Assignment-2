@@ -1,4 +1,4 @@
-
+package bai.pkg3;
 import java.util.Scanner;
 
 public class Assignment2 {
